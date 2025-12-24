@@ -1,14 +1,33 @@
 ---
-title: "Paper Title Number 1"
+title: "Dual-route embedding-aware graph neural networks for drug repositioning"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-10-01-dream-gnn
+excerpt: "DREAM-GNN is a multi-view deep graph learning framework that integrates biomedical domain knowledge via complementary graphs capturing topology and feature similarity for robust drug–disease association prediction."
+date: 2025-10-01
+venue: "Briefings in Bioinformatics"
+volume: "26"
+number: "5"
+pages: "bbaf555"
+doi: "10.1093/bib/bbaf555"
+paperurl: "https://doi.org/10.1093/bib/bbaf555"
+citation: 'Zhao, Yanlong; Chen, Yixiao; Du, Jiawen; Wen, Jun; Sun, Quan; Wang, Ren; Chen, Can. "Dual-route embedding-aware graph neural networks for drug repositioning." Briefings in Bioinformatics 26(5): bbaf555 (2025).'
+category: journal
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+
+**Links:** [DOI](https://doi.org/10.1093/bib/bbaf555) · [PDF](https://academic.oup.com/bib/article-pdf/26/5/bbaf555/64951582/bbaf555.pdf)
+
+```bibtex
+@article{10.1093/bib/bbaf555,
+  author  = {Zhao, Yanlong and Chen, Yixiao and Du, Jiawen and Wen, Jun and Sun, Quan and Wang, Ren and Chen, Can},
+  title   = {Dual-route embedding-aware graph neural networks for drug repositioning},
+  journal = {Briefings in Bioinformatics},
+  volume  = {26},
+  number  = {5},
+  pages   = {bbaf555},
+  year    = {2025},
+  month   = {10},
+  doi     = {10.1093/bib/bbaf555},
+  url     = {https://doi.org/10.1093/bib/bbaf555},
+  eprint  = {https://academic.oup.com/bib/article-pdf/26/5/bbaf555/64951582/bbaf555.pdf}
+}
