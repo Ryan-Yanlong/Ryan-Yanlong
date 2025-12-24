@@ -36,7 +36,7 @@ Skills
 ======
 * Geometric Machine Learning
 * AI4Bio
-
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
