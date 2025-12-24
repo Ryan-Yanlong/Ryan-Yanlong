@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-%* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+//* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in ECE, University of Rochester, 2025
 * B.S. in Automation, Shandong University, 2023
 
