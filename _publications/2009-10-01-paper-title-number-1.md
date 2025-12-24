@@ -3,7 +3,7 @@ title: "Dual-route embedding-aware graph neural networks for drug repositioning"
 collection: publications
 permalink: /publication/2025-10-01-dream-gnn
 excerpt: "DREAM-GNN is a multi-view deep graph learning framework that integrates biomedical domain knowledge via complementary graphs capturing topology and feature similarity for robust drug–disease association prediction."
-date: 2025-10-01
+date: 2025-10-27
 venue: "Briefings in Bioinformatics"
 volume: "26"
 number: "5"
