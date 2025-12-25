@@ -42,7 +42,15 @@
     "vendor/font-awesome/brands"
 ;   
 
+@media (min-width: 64em) {
+  .page__content {
+    margin-left: 2rem;  
+  }
 
-.page {
-  margin-left: 2rem;   
+
+  .sidebar {
+    margin-left: -0.75rem;  
+  }
 }
+
+
