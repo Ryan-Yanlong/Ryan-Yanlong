@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yanlong Zhao (赵衍龙)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research assistant working on geometric deep learning and AI for Science"
   location         : "San Jose"
-  employer         : "Red Brick University"
+#  employer         : "Red Brick University"
   uri              : # URL
   email            : "yanlong.ryan@gmail.com" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : www.linkedin.com/in/yanlongz
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
