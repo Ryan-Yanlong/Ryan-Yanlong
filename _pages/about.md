@@ -26,4 +26,4 @@ I’m interested in collaborating on problems related to **biomedical graph lear
 ---
 
 ### Updates
-- **Dual-route embedding-aware graph neural networks for drug repositioning** — published in *Briefings in Bioinformatics* (2025). [Paper](https://academic.oup.com/bib/article/26/5/bbaf555/8303423)
+- Dual-route embedding-aware graph neural networks for drug repositioning — published in *Briefings in Bioinformatics* (2025). [Paper](https://academic.oup.com/bib/article/26/5/bbaf555/8303423)
