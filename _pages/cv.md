@@ -20,7 +20,7 @@ Work experience
 
 * Fall 2024: Research Assistant
   * Illinois Institute of Technology
-  * Supervisor: Professor Ren Wang & Prof Can Chen (UNC Chapel Hill)
+  * Supervisor: Prof. Ren Wang & Prof. Can Chen (UNC Chapel Hill)
   
 Skills
 ======
