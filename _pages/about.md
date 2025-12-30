@@ -17,7 +17,7 @@ Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Scienc
 
 ## Current projects (selected)
 - **MuSHIN**: Hypergraph-based unsupervised learning for metabolic gap-filling and reaction prediction in genome-scale metabolic models.  
-- **DREAM-GNN**: Multimodal graph learning for drug–disease association prediction, including cold-start / zero-shot settings.
+- **DREAM-GNN**: Multimodal graph learning for drug–disease association prediction.
 
 ## I’m looking for
 I’m interested in collaborating on problems related to **biomedical graph learning** and **foundation models for biology**. If you think our interests align, feel free to reach out.
@@ -27,3 +27,4 @@ I’m interested in collaborating on problems related to **biomedical graph lear
 
 ### Updates
 - Dual-route embedding-aware graph neural networks for drug repositioning — published in *Briefings in Bioinformatics* (2025). [Paper](https://academic.oup.com/bib/article/26/5/bbaf555/8303423)
+- MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction - [preprint](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1)
