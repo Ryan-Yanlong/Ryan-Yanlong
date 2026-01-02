@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Science** and **geometric deep learning**. My work sits at the intersection of machine learning and biomedical knowledge graphs, with a particular interest in building models that are both predictive and mechanistically interpretable.
+Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Science** and **geometric deep learning**. My work sits at the intersection of machine learning and biomedical knowledge graphs, with a particular interest in building models that are both predictive and mechanistically interpretable. I am currently working under the supervision of [**Prof. Ren Wang**](https://wangren09.github.io/) and [**Prof. Can Chen**](https://tarheels.live/canc/), focusing on AI-driven methods for biomedical discovery and biological network modeling.
 
 ## Research interests
 - Graph & hypergraph neural networks for biological networks
@@ -19,8 +19,6 @@ Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Scienc
 - **MuSHIN**: Hypergraph-based unsupervised learning for metabolic gap-filling and reaction prediction in genome-scale metabolic models.  
 - **DREAM-GNN**: Multimodal graph learning for drug–disease association prediction.
 
-## I’m looking for
-I’m interested in collaborating on problems related to **biomedical graph learning** and **foundation models for biology**. If you think our interests align, feel free to reach out.
 
 
 ---
