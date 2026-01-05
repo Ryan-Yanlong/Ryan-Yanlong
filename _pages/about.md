@@ -13,12 +13,11 @@ Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Scienc
 ## Research interests
 - Graph & hypergraph neural networks for biological networks
 - Multimodal representation learning (molecules, proteins, diseases, text) and alignment in shared latent spaces
-- Robust evaluation and reproducible ML for scientific discovery
+
 
 ## Current projects (selected)
 - **MuSHIN**: Hypergraph-based unsupervised learning for metabolic gap-filling and reaction prediction in genome-scale metabolic models.  
 - **DREAM-GNN**: Multimodal graph learning for drug–disease association prediction.
-
 
 
 ---
