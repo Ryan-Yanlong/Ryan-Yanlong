@@ -23,5 +23,5 @@ Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Scienc
 ---
 
 ### Updates
+- **(Accepted in principle)** MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction - [preprint](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1)
 - Dual-route embedding-aware graph neural networks for drug repositioning — published in *Briefings in Bioinformatics* (2025). [Paper](https://academic.oup.com/bib/article/26/5/bbaf555/8303423)
-- MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction - [preprint](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1)
