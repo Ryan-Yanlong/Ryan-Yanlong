@@ -7,50 +7,28 @@ collection: pages
 
 Here is my photo.
 
-<div class="masonry">
+<div class="photo-grid">
 {% for file in site.static_files %}
   {% if file.path contains "images/photography/" %}
     <a href="{{ site.baseurl }}{{ file.path }}" data-lightbox="gallery">
-      <img src="{{ site.baseurl }}{{ file.path }}" loading="lazy">
+      <img src="{{ site.baseurl }}{{ file.path }}" alt="" loading="lazy">
     </a>
   {% endif %}
 {% endfor %}
 </div>
 
-
 <style>
-.masonry {
-  column-count: 3;
-  column-gap: 16px;
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
 }
 
-@media (max-width: 1000px) {
-  .masonry {
-    column-count: 2;
-  }
-}
-
-@media (max-width: 600px) {
-  .masonry {
-    column-count: 1;
-  }
-}
-
-.masonry a {
-  display: block;
-  margin-bottom: 16px;
-  break-inside: avoid;
-}
-
-.masonry img {
+.photo-grid img {
   width: 100%;
   height: auto;
+  display: block;
   border-radius: 4px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.masonry img:hover {
-  transform: scale(1.02);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 </style>
+
