@@ -18,8 +18,8 @@ I work with both digital and film formats.
 👉 [View my photography portfolio](/photography/)
 
 ## Research interests
-- Graph & hypergraph neural networks for biological networks
-- Multimodal representation learning (molecules, proteins, diseases, text) and alignment in shared latent spaces
+- Graph Neural Networks for Biological Networks
+- Agent AI for Science
 
 
 ## Current projects (selected)
