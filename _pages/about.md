@@ -16,9 +16,6 @@ Outside of my research, I am passionate about photography.
 I work with both digital and film formats(primarily medium-format film photography).
 
 
-
-
-
 ## Research interests
 - Graph & hypergraph neural networks for biological networks
 - Multimodal representation learning (molecules, proteins, diseases, text) and alignment in shared latent spaces
