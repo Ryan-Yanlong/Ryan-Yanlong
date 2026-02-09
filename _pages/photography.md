@@ -2,14 +2,15 @@
 layout: page
 title: Photography
 permalink: /photography/
+collection: pages
 ---
 
-A small selection of my photography work.
+Here is my photo.
 
 <div class="photo-gallery">
 {% for file in site.static_files %}
   {% if file.path contains "images/photography/" %}
-    <a href="{{ site.baseurl }}{{ file.path }}" target="_blank">
+    <a href="{{ site.baseurl }}{{ file.path }}" data-lightbox="gallery">
       <img src="{{ site.baseurl }}{{ file.path }}" class="gallery-thumb">
     </a>
   {% endif %}
