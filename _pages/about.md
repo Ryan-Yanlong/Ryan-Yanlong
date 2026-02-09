@@ -12,8 +12,7 @@ Hi! I’m **Yanlong Zhao (赵衍龙)**, a researcher focusing on **AI for Scienc
 
 ## Photography
 
-Outside of my research, I am passionate about [photography](/photography/).  
-I work with both digital and film formats.
+Outside of my research, I am passionate about [photography](/photography/). I work with both digital and film formats.
 
 
 ## Research interests
